@@ -7,7 +7,7 @@
 
 
 ### **Profesorado**
-Torres Porras, María Jesús (bb2topom[at]uco.es)
+Torres Porras, María Jesús (bb2topom[at]uco.es)  
 Aguilar Pontes, María Victoria (b52agpom[at]uco.es)
 
 ### Material práctico 
