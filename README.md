@@ -14,7 +14,7 @@ Aguilar Pontes, María Victoria (b52agpom[at]uco.es)
 
 ### **Instrucciones**
 1- Descarga el repositorio en el escritorio  
-- CODE > copiar dirección https  
+- CODE > Download zip file en el escritorio   
 
 2- Dirigete a la página web de la base de datos **[FungiDB](https://fungidb.org/fungidb/app)**  
 3- Crea una cuenta en Apollo  
