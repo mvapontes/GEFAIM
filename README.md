@@ -13,8 +13,8 @@ Aguilar Pontes, María Victoria (b52agpom[at]uco.es)
 ### Material práctico 
 
 ### **Instrucciones**
-1- Descarga la carpeta **data** en el escritorio  
-- data > archivo 1-N > download ZIP > Extraer Zip file  
+1- Descarga el repositorio en el escritorio  
+- CODE > copiar dirección https  
 
 2- Dirigete a la página web de la base de datos **[FungiDB](https://fungidb.org/fungidb/app)**  
 3- Crea una cuenta en Apollo  
